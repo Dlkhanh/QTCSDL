@@ -1,0 +1,12 @@
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.exe.config
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.exe
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.pdb
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.csproj.AssemblyReference.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.Login.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.Properties.Resources.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.csproj.GenerateResource.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.csproj.CoreCompileInputs.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.exe
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.pdb
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.AccountProfile.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.fmanagetable.resources

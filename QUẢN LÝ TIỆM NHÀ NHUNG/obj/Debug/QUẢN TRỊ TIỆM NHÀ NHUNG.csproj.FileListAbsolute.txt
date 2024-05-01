@@ -1,0 +1,32 @@
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.exe.config
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.exe
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\bin\Debug\quan tri tiem nha nhung.pdb
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.AssemblyReference.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.AccountProfile.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.fmanagetable.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.Login.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.Properties.Resources.resources
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.GenerateResource.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.CoreCompileInputs.cache
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.exe
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan tri tiem nha nhung.pdb
+C:\Users\TUONG NGHI\source\quan tri tiem nha nhung\quan tri tiem nha nhung\obj\Debug\quan_tri_tiem_nha_nhung.Admin.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\bin\Debug\quan tri tiem nha nhung.exe.config
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\bin\Debug\quan tri tiem nha nhung.exe
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\bin\Debug\quan tri tiem nha nhung.pdb
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.AssemblyReference.cache
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Admin.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.fmanagetable.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Login.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Properties.Resources.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.GenerateResource.cache
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\QUẢN TRỊ TIỆM NHÀ NHUNG.csproj.CoreCompileInputs.cache
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan tri tiem nha nhung.exe
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan tri tiem nha nhung.pdb
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Bill.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.DetailImportBill.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.DetailOrderBill.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Menu.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Form1.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Form2.resources
+C:\ProjectQTCSDL\Project\QUẢN LÝ TIỆM NHÀ NHUNG\obj\Debug\quan_tri_tiem_nha_nhung.Form3.resources

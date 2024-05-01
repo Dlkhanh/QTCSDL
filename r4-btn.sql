@@ -1,0 +1,24 @@
+USE [TiemnhaNhung]
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE NONCLUSTERED INDEX [NonClusteredIndex-20231110-075506] ON [dbo].[KHACH]
+(
+	[MaKH] ASC,
+	[SDTKH] ASC
+)
+-----
+USE [TiemnhaNhung]
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE NONCLUSTERED INDEX [NonClusteredIndex-20231110-075615] ON [dbo].[HOADONBAN]
+(
+	[MaHDB] ASC,
+	[TongTien] ASC
+)
+
